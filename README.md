@@ -11,4 +11,4 @@ CIFAR-100 and ImageNet-sub
 # Acknowledgement
 
 our project references the codes in the following repos.
--[PASS](https://github.com/Impression2805/CVPR21_PASS)
+- [PASS](https://github.com/Impression2805/CVPR21_PASS)
