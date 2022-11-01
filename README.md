@@ -1,5 +1,7 @@
 # PASS++
 An implementation of PASS++ for class incremental learning.
+# Updating ...
+
 # Dataset
 CIFAR-100 and ImageNet-sub
 
