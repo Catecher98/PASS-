@@ -8,6 +8,10 @@ CIFAR-100 and ImageNet-sub
  - torch 1.8.1
  - CUDA 11.1
 
+# Training scripts
+
+ $ python main.py
+ 
 # Acknowledgement
 
 our project references the codes in the following repos.
