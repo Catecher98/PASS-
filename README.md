@@ -10,7 +10,7 @@ CIFAR-100 and ImageNet-sub
 
 # Training scripts
 
- $ python main.py
+  $  python main.py
  
 # Acknowledgement
 
