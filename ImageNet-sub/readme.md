@@ -1,6 +1,6 @@
 # this directory contains the code of PASS++ for ImageNet-sub dataset
 
-## Updating 
+## Updating ...
 
 ## Training scripts
 
