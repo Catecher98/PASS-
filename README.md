@@ -7,7 +7,7 @@ CIFAR-100 and ImageNet-sub
 
 # Environment 
  - python 3.8+
- - torch 1.8.1
+ - torch 1.8.0
  - CUDA 11.1
 
 # Training scripts
