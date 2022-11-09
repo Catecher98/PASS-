@@ -11,6 +11,8 @@ CIFAR-100 and ImageNet-sub
  - CUDA 11.1
 
 # Training scripts
+ - for CIFAR-100 dataset
+ 
 
     $ python main.py
  
